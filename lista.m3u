@@ -6,14 +6,8 @@ http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Mexiquense Toluca
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
 
-#EXTINF:-1,REDE TV 
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",CARTOON NETWORK
+http://iptv.servidorfull.com:8081/live/Revi3/WIrYVDyQYd/82.ts
 
-#EXTINF:-1,RECORD
-http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_480_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,BAND 
-http://starbr.digitalgroup.me:15000/live/25025/25025/1713.m3u8
-
-#EXTINF:-1,TV GAZETA
-http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",CARTOON NETWORK HD
+http://iptv.servidorfull.com:8081/live/Revi3/WIrYVDyQYd/777.ts
