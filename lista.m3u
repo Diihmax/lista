@@ -12,14 +12,28 @@ http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(forma
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GAZETA HD
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD", GLOBO HQ
-http://213.163.71.139:8081/live/sptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",History Channel (USA)
+http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD", GLOBO SP
-http://31.204.128.112:8081/live/sptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD", GLOBO SP
-http://31.204.128.127:8081/live/sptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD", GLOBO SP
-http://213.163.65.116:8081/live/sptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD", GLOBO SP
-http://213.163.71.139:8081/live/sptv/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/1.png",Discovery Channel
+http://live.tvplayerlatino.com/streaming/src1/hdHdC?58afba
+#EXTINF:-1 group-title="ESTABLES"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/3.png",Discovery Civilization
+http://live.tvplayerlatino.com/streaming/src1/VSngF?58afba
+#EXTINF:-1 group-title="ESTABLES"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/2.png",Discovery H&H
+http://live.tvplayerlatino.com/streaming/src1/gEqGA?58afba
+#EXTINF:-1 group-title="ESTABLES" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/dicovery-kids.png",Discovery Kids
+http://live.tvplayerlatino.com/streaming/src1/Q99yx?58afba
+#EXTINF:-1 group-title="ESTABLES"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/9.png",Discovery SCI
+http://live.tvplayerlatino.com/streaming/src1/LMgwM?58afba
+#EXTINF:-1 group-title="ESTABLES"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/theater-discovery-hd.png",Discovery Theater HD
+http://live.tvplayerlatino.com/streaming/src1/BCSvX?58afba
+#EXTINF:-1 group-title="ESTABLES"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/6.png",Discovery Turbo
+http://live.tvplayerlatino.com/streaming/src1/uNab0?58afba
+#EXTINF:-1 group-title="ESTABLES"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/world-discovery-hd.png",Discovery World
+http://live.tvplayerlatino.com/streaming/src1/N6San?58afba
+#EXTINF:-1 group-title="ESTABLES"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/history.png",History Channel
+http://live.tvplayerlatino.com/streaming/src1/wQqis?58afba
+#EXTINF:-1 group-title="ESTABLES"  tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif",Nat Geo
+http://live.tvplayerlatino.com/streaming/src1/BiEi0?58afba
+#EXTINF:-1 group-title="ESTABLES"  tvg-logo="http://x.cdn.entutele.com/media/channels/big/natgeo-wild.gif",Nat Geo Wild
+http://live.tvplayerlatino.com/streaming/src1/i80zc?58afba
