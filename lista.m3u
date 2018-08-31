@@ -15,8 +15,8 @@ http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Globo
 http://live.livecast.cc:1935/live/ch15-1/livestream.m3u8
 
-#EXTINF:-1 group-title="INFANTIL", IPTVelox.com - Cartoon Network
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Cartoon Network
 http://213.163.71.139:8081/live/cartoon/playlist.m3u8
 
-#EXTINF:-1 group-title="INFANTIL", IPTVelox.com - Simpsons
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Simpsons
 http://185.63.255.23:1935/live/simpsons/livestream.m3u8
