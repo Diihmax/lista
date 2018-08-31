@@ -6,122 +6,23 @@ http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Mexiquense Toluca
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Mexiquense Toluca
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",CARTOON NETWORK
+http://95.211.149.215:8081/look/cartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ESPORTES",ESPORTE INTERATIVO HD
-https://minhalista.live/channel/712772/sanbrother007/redirect
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",CARTOON NETWORK 2
+http://tv.ec.cx:1935/redecanais-stream-cartoon/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ESPORTES",ESPORTE INTERATIVO 2 HD
-https://minhalista.live/channel/712777/sanbrother007/redirect
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SPORTV
+http://149.202.201.58:8081/look/sportv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ESPORTES",ESPORTE INTERATIVO BR HD
-https://minhalista.live/channel/712779/sanbrother007/redirect
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN BRASIL
+http://5.79.68.138:8081/look/espnbr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",ESPORTE INTERATIVO BR HD
-https://minhalista.live/channel/712783/sanbrother007/redirect
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX SPORTES
+http://95.211.149.215:8081/look/foxsport/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",FOX SPORTS
-https://minhalista.live/channel/712788/sanbrother007/redirect
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",PREMIERe
+http://95.211.149.215:8081/look/pfc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",SPORTV 1
-https://minhalista.live/channel/712792/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",SPORTV 2
-https://minhalista.live/channel/712793/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",SPORTV 3
-https://minhalista.live/channel/712796/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",PREMIERE CLUBES
-https://minhalista.live/channel/712798/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",PREMIERE 2
-https://minhalista.live/channel/712800/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",CINEMAX
-https://minhalista.live/channel/712809/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/93bd7225a8e6a4feb37ff2da69137f3e_online.jpg" group-title="TV TEMPORÁRIA",FOX
-https://minhalista.live/channel/712810/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",HBO HD
-https://minhalista.live/channel/712811/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/36f2d99c0e8d928404749e8159e27ccd_online.jpg" group-title="TV TEMPORÁRIA",MAX
-https://minhalista.live/channel/712812/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",MAX PRIME
-https://minhalista.live/channel/712813/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",MAX UP
-https://minhalista.live/channel/712814/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",MEGAPIX
-https://minhalista.live/channel/712815/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/14359852f5c9e00b08e0289943fc66a8_online.jpg" group-title="TV TEMPORÁRIA",SPACE
-https://minhalista.live/channel/712816/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",STUDIO UNIVERSAL
-https://minhalista.live/channel/712817/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",TNT
-https://minhalista.live/channel/712818/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",TNT SERIES HD
-https://minhalista.live/channel/712819/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",TBS HD
-https://minhalista.live/channel/712822/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",TELECINE CULT HD
-https://minhalista.live/channel/712824/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",TELECINE PREMIUM
-https://minhalista.live/channel/712826/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",TELECINE ACTION
-https://minhalista.live/channel/712828/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",TELECINE PIPOCA
-https://minhalista.live/channel/712829/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",CARTOON NETWORK HD
-https://minhalista.live/channel/712832/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/aabd53af6714e50b649608d0ea47e91d_online.jpg" group-title="TV TEMPORÁRIA",DISNEY CHANNEL
-https://minhalista.live/channel/712833/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",DISNEY JUNIOR HD
-https://minhalista.live/channel/712834/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",NICKELODEON
-https://minhalista.live/channel/712835/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",GLOBO SP
-https://minhalista.live/channel/712836/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a181e91b9fc359e93c918a3c54135dfd_online.jpg" group-title="TV TEMPORÁRIA",BAND SP
-https://minhalista.live/channel/712837/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV TEMPORÁRIA",JOGO ABERTO
-https://minhalista.live/channel/712838/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/70cb054b77ecbd24fd17a4539560202a_offline.jpg" group-title="TV TEMPORÁRIA",OS DONOS DA BOLA
-https://minhalista.live/channel/712839/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/006cbf1d9d66e230859c9df500de1f1b_online.jpg" group-title="TV TEMPORÁRIA",MTV BRASIL
-https://minhalista.live/channel/712840/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4fabf7ced061d2692e9110e940d343be_online.jpg" group-title="TV TEMPORÁRIA",VIVA
-https://minhalista.live/channel/712841/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4c6742564770faa2790f3e5895feeeb1_online.jpg" group-title="TV TEMPORÁRIA",MULTISHOW
-https://minhalista.live/channel/712842/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ESPORTES",REAL MADRID TV HD (ESPANHOL)
-https://minhalista.live/channel/712843/sanbrother007/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/9b5ac5f6c746ad53056ee4f950f508e4_online.jpg" group-title="TV ESPORTES",BARÇA TV
-https://minhalista.live/channel/712844/sanbrother007/redirect
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",COMBATE
+http://95.211.149.215:8081/look/combate/playlist.m3u8
