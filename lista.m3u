@@ -17,3 +17,18 @@ http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",CARTOON NETWORK
 http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/82.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISNEY CHANNEL
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/96.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY CHANNEL HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/288.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",,DISCOVERY CIVILIZATION
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/79.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY H&H HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/297.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY KIDS
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/93.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY SCIENCE
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/94.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY TURBO HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/298.m3u8
