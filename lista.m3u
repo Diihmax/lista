@@ -12,11 +12,32 @@ http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(forma
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GAZETA HD
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Globo
-http://live.livecast.cc:1935/live/ch15-1/livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Esporte Interativo
+http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eitv720.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Cartoon Network
-http://213.163.71.139:8081/live/cartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Esporte Interativo
+http://ei.live-ss-cct.stormsec.com.br:80/live/Evento1.smil/chunklist_b3000000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Simpsons
-http://185.63.255.23:1935/live/simpsons/livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPORTE INTERATIVO MAXX 
+http://ei.ss-lisa.eiplus.com.br/live/smil:Evento3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPORTE INTERATIVO MAXX 2
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eine720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Globosp1
+http://62.210.83.180:1935/liverepeat/101010/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Globosp2
+http://146.185.31.242:1935/liverepeat/101010/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GLOBO 3
+http://217.23.2.169:8081/edge/globo/playlist.m3u8 
+ 
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GLOBO SP4
+http://m3u.me/CQ
+ 
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GLOBO SP (OPIÇÃO 02)
+http://91.205.174.38:8081/live/sptv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GLOBO (480p)
+http://217.23.2.169:8081/edge/globo/playlist.m3u8
