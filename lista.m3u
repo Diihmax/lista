@@ -32,3 +32,6 @@ http://142.4.219.208:1935/redecanaisnick/redecanaisnick/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",RECORD NEWS HD
 http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Globo
+http://art.nextv.ca:80/nextv/globo/index.m3u8
