@@ -23,3 +23,27 @@ http://128.201.60.46:8000/play/001/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",NATIONAL GEOGRAPHIC
 http://128.201.60.46:8000/play/GEO/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",BAND
+http://31.204.128.117:8081/live/band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",CULTURA
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FUTURA
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GAZETA HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GLOBO
+http://31.204.128.117:8081/live/globo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",RECORD
+http://31.204.128.117:8081/live/record/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",RECORD NEWS H
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",REDETV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
