@@ -12,41 +12,74 @@ http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(forma
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GAZETA HD
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GLOBO
-http://apk.goo.ac:8081/live/17/playlist.m3u8?CRAZYSGAMES
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SEX PRIVÉ
+http://dpmia01.gcdn.co:80/061/myStream/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY TURBO
-http://dpmia01.gcdn.co:80/002/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SEXY HOT
+http://dpmia01.gcdn.co:80/063/myStream/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HISTORY
-http://dpmia01.gcdn.co:80/024/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",PLAYBOY TV
+http://dpmia01.gcdn.co:80/064/myStream/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",TNT SÉRIES
-http://dpmia01.gcdn.co:80/025/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",RECORD TV
+http://dpmia01.gcdn.co:80/066/myStream/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",CARTOON NETWORK
-http://dpmia01.gcdn.co:80/027/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",E!
+http://dpmia01.gcdn.co:80/075/myStream/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY THEATER
-http://dpmia01.gcdn.co:80/028/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",AXN
+http://dpmia01.gcdn.co:80/076/myStream/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SPACE
-http://dpmia01.gcdn.co:80/029/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Esporte Interativo
+http://enlsso9vfh.singularcdn.net.br/live/canal_01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",A&E
-http://dpmia01.gcdn.co:80/031/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Esporte Interativo 2 240p
+http://enlsso9vfh.singularcdn.net.br/live/canal_02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",BAND NEWS
-http://dpmia01.gcdn.co:80/032/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Esporte Interativo BR
+http://enlsso9vfh.singularcdn.net.br/live/canal_03/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ID
-http://dpmia01.gcdn.co:80/033/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",REDE TV
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8?LISTANG2000IPTV
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX ACTION
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX FAMILY
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX ACTION
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_ACTION)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX CINEMA HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX CLASSICS HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX COMEDY
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FX
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",H2
-http://dpmia01.gcdn.co:80/034/myStream/live.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",TLC
-http://dpmia01.gcdn.co:80/037/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HBO FAMILY
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MEGAPIX
-http://dpmia01.gcdn.co:80/038/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HBO
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HBO PLUS
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HBO SIGNATURE
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",History
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/index.m3u8
