@@ -6,29 +6,29 @@ http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Mexiquense Toluca
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",NATIONAL GEOGRAPHIC
-http://128.201.60.46:8000/play/GEO/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FUTURA
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GAZETA HD
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX SPORTS
+http://31.204.128.117:8081/live/foxsport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",TELECINE
+http://31.204.128.117:8081/live/fox/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",CARTOON NETWORK
-http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/82.m3u8
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY KIDS
+http://31.204.128.117:8081/live/discoverykids/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISNEY CHANNEL
-http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/96.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY CHANNEL HD
-http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/288.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",,DISCOVERY CIVILIZATION
-http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/79.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY H&H HD
-http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/297.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY KIDS
-http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/93.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY SCIENCE
-http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/94.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY TURBO HD
-http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/298.m3u8
+http://31.204.128.117:8081/live/disney/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",NICK
+http://142.4.219.208:1935/redecanaisnick/redecanaisnick/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",RECORD NEWS HD
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
