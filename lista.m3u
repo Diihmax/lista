@@ -12,4 +12,41 @@ http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(forma
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GAZETA HD
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GLOBO
+http://apk.goo.ac:8081/live/17/playlist.m3u8?CRAZYSGAMES
 
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY TURBO
+http://dpmia01.gcdn.co:80/002/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HISTORY
+http://dpmia01.gcdn.co:80/024/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",TNT SÉRIES
+http://dpmia01.gcdn.co:80/025/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",CARTOON NETWORK
+http://dpmia01.gcdn.co:80/027/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOVERY THEATER
+http://dpmia01.gcdn.co:80/028/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SPACE
+http://dpmia01.gcdn.co:80/029/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",A&E
+http://dpmia01.gcdn.co:80/031/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",BAND NEWS
+http://dpmia01.gcdn.co:80/032/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ID
+http://dpmia01.gcdn.co:80/033/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",H2
+http://dpmia01.gcdn.co:80/034/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",TLC
+http://dpmia01.gcdn.co:80/037/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MEGAPIX
+http://dpmia01.gcdn.co:80/038/myStream/live.m3u8
