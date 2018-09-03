@@ -84,177 +84,107 @@ http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX SPORTS
 http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="abadesenho24h.png" tvg-logo="http://1.bp.blogspot.com/-tuR-RappfZ8/VmmjK5BYUnI/AAAAAAAAAJw/ceYNekYLXB8/s1600/abadesenho24h.png" group-title="Desenhos 24 horas", DESENHOS 24 HORAS
-http://bit.ly
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Desenho",Cartoon Network
+http://23.237.22.153:8080/live/App/daagrd2HwP/15.m3u8
 
-#EXTINF:-1 tvg-logo="americandad.png" tvg-logo="http://3.bp.blogspot.com/-TC7BFxLHEBA/VmmjRlC_8KI/AAAAAAAAAN4/K9zNEE30nns/s1600/americandad.png" group-title="Desenhos 24 horas", American Dad OFF
-rtmp://195.154.216.152/americandad/americandad playpath=americandad swfUrl=http://www.tvonlinegratis.tv/player.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/american-dad.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Cine Sky
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?LISTASDAGLAU
 
-#EXTINF:-1 tvg-logo="avatar.png" tvg-logo="http://2.bp.blogspot.com/-v3uI6yf933Q/VmmjU9YYf8I/AAAAAAAAAQA/e-SWNmdIl-E/s1600/avatar.png" group-title="Desenhos 24 horas", Avatar
-http://62.210.83.152:8081/avatar/avatar/playlist.m3u8?wmsAuthSign=%AUTH%
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",Tv União
+http://stmv1.euroti.com.br:1935/tvuniao/tvuniao/live.m3u8?LISTASDAGLAU
 
-#EXTINF:-1 tvg-logo="batman.png" tvg-logo="http://2.bp.blogspot.com/-4NjUFZBEoco/VmmjXhp4-7I/AAAAAAAAAR8/EK9vlxu5W4U/s1600/batman.png" group-title="Desenhos 24 horas", Batman
-rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH%  playpath=batman swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/batman.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esporte",All Sports BR
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8?LISTASDAGLAU
 
-#EXTINF:-1 tvg-logo="ben10.png" tvg-logo="http://4.bp.blogspot.com/-sn5PSqODqYw/VmmjYNEu3RI/AAAAAAAAASc/4FfPphWC3kA/s1600/ben10.png" group-title="Desenhos 24 horas", Ben 10
-rtmp://208.53.180.242/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE2IDI6MjY6MDQgQU0maGFzaF92YWx1ZT1vWDdRT3YwelJod1o4Vm9FaTNlcm13PT0mdmFsaWRtaW51dGVzPTU=/ playpath=ben10 swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/ben10.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Cine Filmes
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 
-#EXTINF:-1 tvg-logo="bobesponja.png" tvg-logo="http://2.bp.blogspot.com/-0mPfih-SSNE/VmmjZaEdOSI/AAAAAAAAATI/GuJuU7r5kWg/s1600/bobesponja.png" group-title="Desenhos 24 horas", Bob Esponja
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/bobesponja.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Desenho",Cartoon Gospel
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 
-#EXTINF:-1 tvg-logo="bleach.png" tvg-logo="http://2.bp.blogspot.com/-1YDDtyRoG_M/VmmjY0yzldI/AAAAAAAAAS0/-C7szNWDYx4/s1600/bleach.png" group-title="Desenhos 24 horas", Bleach
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chbleachbr/2012/02/09/92100533-2110-4152-ab72-fefb17979615 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=true pageUrl=http://www.assistirtvbr.tv/canal/bleach-online.html
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Documentários",Furg TV
+http://stream.furg.br:80/hls/furgtv.m3u8
 
-#EXTINF:-1 tvg-logo="cavaleirosdozodiaco.png" tvg-logo="http://1.bp.blogspot.com/-lghMjmlweAU/VmmjfVpoPqI/AAAAAAAAAXE/EVD-eX0u1gM/s1600/cavaleirosdozodiaco.png" group-title="Desenhos 24 horas", Cavaleiros do Zodiaco
-rtmp://208.53.180.242/ctv?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTYgMTE6NTg6MjUgUE0maGFzaF92YWx1ZT1JYkdiRmZlbUlTUWlaQ3FNL3RPSEZ3PT0mdmFsaWRtaW51dGVzPTU=/ playpath=cdz  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf  pageUrl=http://www.aovivobrasil.com/tvamigos2/cdz.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Documentários",Geraes TV
+http://stmv1.euroti.com.br:1935/tv465/tv465/live.m3u8
 
-#EXTINF:-1 tvg-logo="cavaleirosdozodiaco.png" tvg-logo="http://1.bp.blogspot.com/-lghMjmlweAU/VmmjfVpoPqI/AAAAAAAAAXE/EVD-eX0u1gM/s1600/cavaleirosdozodiaco.png" group-title="Desenhos 24 horas", Cavaleiros do Zodiaco
-rtmp://208.53.180.242/ctv?wmsAuthSign=%AUTH% playpath=cdz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/cdz.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Gospel",Gospel Movies Television
+http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
 
-#EXTINF:-1 tvg-logo="cavernadodragao.png" tvg-logo="http://4.bp.blogspot.com/-VMb15tCW6fE/VmmjfjnDvLI/AAAAAAAAAXI/ayNkqKQ068o/s1600/cavernadodragao.png" group-title="Desenhos 24 horas", Caverna do DragÃ£o
-rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=caverna swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/caverna.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",Guaru Fama TV
+http://tv.tvalphanet.com.br:1935/guarufamatv/guarufamatv/live.m3u8
 
-#EXTINF:-1 tvg-logo="cavernadodragao.png" tvg-logo="http://4.bp.blogspot.com/-VMb15tCW6fE/VmmjfjnDvLI/AAAAAAAAAXI/ayNkqKQ068o/s1600/cavernadodragao.png" group-title="Desenhos 24 horas", Caverna do DragÃ£o
-rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=caverna swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/caverna.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esporte",Esporte Interativo
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
 
-#EXTINF:-1 tvg-logo="coragemocaocovarde.png" tvg-logo="http://3.bp.blogspot.com/-sMwrWGFVIBU/VmmjkvBK8cI/AAAAAAAAAac/tUs9FVYXcZw/s1600/coragemocaocovarde.png" group-title="Desenhos 24 horas", Coragem o CÃ£o Covarde OFF
-rtmp://195.154.216.152/coragem/coragem playpath=coragem swfUrl=http://www.tvonlinegratis.tv/player.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/coragem.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esporte",SporTV 2
+http://apk.goo.bo:8081/live/15/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="debieloide.png" tvg-logo="http://1.bp.blogspot.com/-zj97-SIaSOk/VmmjmduanHI/AAAAAAAAAbU/Cqs_s6N1cyg/s1600/debieloide.png" group-title="Desenhos 24 horas", Debi e Loide
-http://62.210.89.38:8081/debiloide/debiloide/playlist.m3u8?wmsAuthSign=%AUTH%
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esporte",All Sports BR
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="devoltaparaofuturo.png" tvg-logo="http://1.bp.blogspot.com/-wgwk-1kdaAA/VmmjmQ6VHeI/AAAAAAAAAbY/QV4WqUO7QKM/s1600/devoltaparaofuturo.png" group-title="Desenhos 24 horas", De Volta para o Futuro
-http://62.210.83.152:8081/devoltaparaofuturo/devoltaparaofuturo/playlist.m3u8?wmsAuthSign=%AUTH%
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Notícias",Record News
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="digimon.png" tvg-logo="http://2.bp.blogspot.com/-1q9jFYyAcTs/VmmjnGdqC0I/AAAAAAAAAb0/tqXOsgZNup4/s1600/digimon.png" group-title="Desenhos 24 horas", Digimon
-http://62.210.83.152:8081/digimon/digimon/playlist.m3u8?wmsAuthSign=%AUTH%
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Notícias",Record News HD
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="pixote.png" tvg-logo="http://2.bp.blogspot.com/-pTudWU_BAJ0/VmmkV0-0M8I/AAAAAAAAA40/GSuEEEHd52s/s1600/pixote.png" group-title="Desenhos 24 horas", Dom Pixote
-http://62.210.88.233:8081/dompixote/dompixote/playlist.m3u8?wmsAuthSign=%AUTH%
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Variedade e Músicas",Yeeah!
+http://stmv2.srvstm.com:1935/yeeahteen/yeeahteen/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="doug.png" tvg-logo="http://1.bp.blogspot.com/-Bd9IZTdmW2w/Vmmjo9zvMJI/AAAAAAAAAc8/xOq37yDYXl4/s1600/doug.png" group-title="Desenhos 24 horas", Doug
-rtmp://208.53.180.242/ctv?wmsAuthSign=%AUTH% playpath=doug swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/doug.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Variedade e Músicas",Top TV
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-j_ngKqa_xSQ/VmmjpYE9CLI/AAAAAAAAAdQ/GmFf1_vpcuM/s1600/ducktales.png" tvg-logo="http://3.bp.blogspot.com/-j_ngKqa_xSQ/VmmjpYE9CLI/AAAAAAAAAdQ/GmFf1_vpcuM/s1600/ducktales.png" group-title="Desenhos 24 horas", Ducktales
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=duck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/ducktales.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Variedade e Músicas",Top TV HD
+http://stmv3.euroti.com.br:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-j_ngKqa_xSQ/VmmjpYE9CLI/AAAAAAAAAdQ/GmFf1_vpcuM/s1600/ducktales.png" tvg-logo="http://3.bp.blogspot.com/-j_ngKqa_xSQ/VmmjpYE9CLI/AAAAAAAAAdQ/GmFf1_vpcuM/s1600/ducktales.png" group-title="Desenhos 24 horas", Ducktales
-rtmp://208.53.164.194/ctv playpath=duck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/ducktales.html
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Variedade e Músicas",Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="dragonballz.png" tvg-logo="http://3.bp.blogspot.com/-XXwkVlJsrww/VmmjpLCf5vI/AAAAAAAAAdI/zAHdeHk3AxQ/s1600/dragonballz.png" group-title="Desenhos 24 horas", Dragon Ball Z
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/dbz.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",SBT GO HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-oicqIVINJ84/VmmjvcNAnzI/AAAAAAAAAhA/8I7GbxlVm7M/s1600/familiadapesada.png" tvg-logo="http://4.bp.blogspot.com/-oicqIVINJ84/VmmjvcNAnzI/AAAAAAAAAhA/8I7GbxlVm7M/s1600/familiadapesada.png" group-title="Desenhos 24 horas", Familia da Pesada(Family Guy)
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/family.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A&E HD
+http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/36929.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-oicqIVINJ84/VmmjvcNAnzI/AAAAAAAAAhA/8I7GbxlVm7M/s1600/familiadapesada.png" tvg-logo="http://4.bp.blogspot.com/-oicqIVINJ84/VmmjvcNAnzI/AAAAAAAAAhA/8I7GbxlVm7M/s1600/familiadapesada.png" group-title="Desenhos 24 horas", Familia da Pesada(Family Guy)
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/family.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",AMC HD
+http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/36928.m3u8
 
-#EXTINF:-1 tvg-logo="familiadinossauro.png" tvg-logo="familiadinossauro.png" group-title="Desenhos 24 horas", Familia Dinossauros
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=dino swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/dinossauros.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Cinemax HD
+http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/37120.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-UNlFvWtgjIY/VmmjZPR1EEI/AAAAAAAAATE/57r63ZXHtOU/s1600/bobby.png" tvg-logo="http://3.bp.blogspot.com/-UNlFvWtgjIY/VmmjZPR1EEI/AAAAAAAAATE/57r63ZXHtOU/s1600/bobby.png" group-title="Desenhos 24 horas", FantÃ¡stico mundo de Bobby
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=bobby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/bobby.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",FOX HD
+http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/37101.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-UNlFvWtgjIY/VmmjZPR1EEI/AAAAAAAAATE/57r63ZXHtOU/s1600/bobby.png" tvg-logo="http://3.bp.blogspot.com/-UNlFvWtgjIY/VmmjZPR1EEI/AAAAAAAAATE/57r63ZXHtOU/s1600/bobby.png" group-title="Desenhos 24 horas", FantÃ¡stico mundo de Bobby
-rtmp://208.53.180.130/ctv playpath=bobby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/bobby.html
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",FOX Premium 2 HD
+http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/36973.m3u8
 
-#EXTINF:-1 tvg-logo="futurama.png" tvg-logo="http://4.bp.blogspot.com/-RiHoNBQksJc/Vmmj0YNmA7I/AAAAAAAAAkU/it8zH4GWU1Q/s1600/futurama.png" group-title="Desenhos 24 horas", Futurama
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/futurama.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",HBO 2 HD
+http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/37086.m3u8
 
-#EXTINF:-1 tvg-logo="galinhapintadinha.png" tvg-logo="http://1.bp.blogspot.com/-TGwdJ9HAQ34/Vmmj0rmzWDI/AAAAAAAAAko/GJVia5Wfwms/s1600/galinhapintadinha.png" group-title="Desenhos 24 horas", Galinha Pintadinha
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=galinha swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/galinhapintadinha.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",HBO Family HD
+http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/37085.m3u8
 
-#EXTINF:-1 tvg-logo="jackiechan.png" tvg-logo="http://3.bp.blogspot.com/-1CKQkEbGasw/Vmmj8wo8tmI/AAAAAAAAAps/D8XHezxD6V0/s1600/jackiechan.png" group-title="Desenhos 24 horas", Jack Chan
-rtmp://208.53.180.130/ctv playpath=jackie swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://aovivobrasil.com/tvamigos/jackie.html
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",HBO Plus HD
+http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/37084.m3u8
 
-#EXTINF:-1 tvg-logo="ligadajustica.png" tvg-logo="http://2.bp.blogspot.com/-vn05gBI27u4/VmmkBJ3lDfI/AAAAAAAAAsM/StNUxnPX2no/s1600/ligadajustica.png" group-title="Desenhos 24 horas", Liga da Justica
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=liga swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/liga.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",HBO Signature HD
+http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/36962.m3u8
 
-#EXTINF:-1 tvg-logo="mandachuva.png" tvg-logo="http://4.bp.blogspot.com/-Ij5HqN6t8qA/VmmkC18GlYI/AAAAAAAAAtE/cEA3Gi5gf5A/s1600/mandachuva.png" group-title="Desenhos 24 horas", Manda Chuva
-http://62.210.88.244:8081/turmadomandachuva/turmadomandachuva/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDE1IDI6MjA6MDMgQU0maGFzaF92YWx1ZT0rTFBXM2NMb2FRc05VQTM0T0ZJMEVRPT0mdmFsaWRtaW51dGVzPTMwMA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Telecine Pipoca HD
+http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/36937.m3u8
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-3MsB0c6jZrM/VmmkHM9BMwI/AAAAAAAAAvs/DINhhP03UEM/s1600/naruto.png" tvg-logo="http://2.bp.blogspot.com/-3MsB0c6jZrM/VmmkHM9BMwI/AAAAAAAAAvs/DINhhP03UEM/s1600/naruto.png" group-title="Desenhos 24 horas", Naruto
-rtmp://208.53.180.242/ctv?wmsAuthSign=%AUTH%  playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/naruto.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",History HD
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1695588725.m3u8
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-3MsB0c6jZrM/VmmkHM9BMwI/AAAAAAAAAvs/DINhhP03UEM/s1600/naruto.png" tvg-logo="http://2.bp.blogspot.com/-3MsB0c6jZrM/VmmkHM9BMwI/AAAAAAAAAvs/DINhhP03UEM/s1600/naruto.png" group-title="Desenhos 24 horas", Naruto
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/naruto.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",CINE SKY 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-3MsB0c6jZrM/VmmkHM9BMwI/AAAAAAAAAvs/DINhhP03UEM/s1600/naruto.png" tvg-logo="http://2.bp.blogspot.com/-3MsB0c6jZrM/VmmkHM9BMwI/AAAAAAAAAvs/DINhhP03UEM/s1600/naruto.png" group-title="Desenhos 24 horas", Naruto Shippuden OFF
-http://62.210.88.244:8081/
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Warner Channel HD
+http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/36930.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-95KncaCg7G4/Vmmj9jyaadI/AAAAAAAAAqM/v5dJFvrTnkk/s1600/jetsons.png.png" tvg-logo="http://3.bp.blogspot.com/-95KncaCg7G4/Vmmj9jyaadI/AAAAAAAAAqM/v5dJFvrTnkk/s1600/jetsons.png.png" group-title="Desenhos 24 horas", Os http://3.bp.blogspot.com/-95KncaCg7G4/Vmmj9jyaadI/AAAAAAAAAqM/v5dJFvrTnkk/s1600/jetsons.png
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/choshttp://3.bp.blogspot.com/-95KncaCg7G4/Vmmj9jyaadI/AAAAAAAAAqM/v5dJFvrTnkk/s1600/jetsons.png/2011/12/02/a5fa7a37-b290-4cc8-b451-fa2c940601d3 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=true pageUrl=http://www.tvonlinebtv.net/streans/http://3.bp.blogspot.com/-95KncaCg7G4/Vmmj9jyaadI/AAAAAAAAAqM/v5dJFvrTnkk/s1600/jetsons.png.html
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Desenho",Disney Channel SD
+http://br1.e-tv.xyz:8081/live/like39284/TYshQzyA4T/4144.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-95KncaCg7G4/Vmmj9jyaadI/AAAAAAAAAqM/v5dJFvrTnkk/s1600/jetsons.png.png" tvg-logo="http://3.bp.blogspot.com/-95KncaCg7G4/Vmmj9jyaadI/AAAAAAAAAqM/v5dJFvrTnkk/s1600/jetsons.png.png" group-title="Desenhos 24 horas", Os http://3.bp.blogspot.com/-95KncaCg7G4/Vmmj9jyaadI/AAAAAAAAAqM/v5dJFvrTnkk/s1600/jetsons.png
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/choshttp://3.bp.blogspot.com/-95KncaCg7G4/Vmmj9jyaadI/AAAAAAAAAqM/v5dJFvrTnkk/s1600/jetsons.png/2011/12/02/5f65a383-d6ac-41a0-aa40-952281b5c399 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://tvonlinebtv.net/streans/http://3.bp.blogspot.com/-95KncaCg7G4/Vmmj9jyaadI/AAAAAAAAAqM/v5dJFvrTnkk/s1600/jetsons.png.html
-
-#EXTINF:-1 tvg-logo="flintstones.png" tvg-logo="http://1.bp.blogspot.com/-Bvmu8IjDdy4/VmmjxQ68gjI/AAAAAAAAAiU/TVoNafSoy_U/s1600/flintstones.png" group-title="Desenhos 24 horas", Os FLINTSTONES
-rtmp://208.53.180.242/ctv?wmsAuthSign=%AUTH% playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/flinstones.php
-
-#EXTINF:-1 tvg-logo="flintstones.png" tvg-logo="http://1.bp.blogspot.com/-Bvmu8IjDdy4/VmmjxQ68gjI/AAAAAAAAAiU/TVoNafSoy_U/s1600/flintstones.png" group-title="Desenhos 24 horas", Os FLINTSTONES
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/flintstones.php
- 
-#EXTINF:-1 tvg-logo="omascara.png" tvg-logo="http://4.bp.blogspot.com/-z7PbrUUmS5U/VmmkMteEo4I/AAAAAAAAAzA/Mt1sAoNpIFA/s1600/omascara.png" group-title="Desenhos 24 horas", O Mascara 
-rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/maskara.php
-
-#EXTINF:-1 tvg-logo="osvingadores.png" tvg-logo="http://i.imgur.com/lLndpk2.png" group-title="Desenhos 24 horas", Os Vingadores
-rtmp://edge-se.livestreamcast.org/osvingadores/osvingadores playpath=osvingadores swfUrl=http://livestreamcast.org/StrobeMediaPlayback.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://www.tvnanetgratis.com.br/index.php?pagina=1357164403
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wHgckvj.png" group-title="Desenhos 24 horas", Os Padrinhos Magicos
-rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE2IDI6NDE6MzcgQU0maGFzaF92YWx1ZT15VCtIQ1pCTitURGtONkdkbnBvTDVRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=padrinhos swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/padrinhos.php
-
-#EXTINF:-1 tvg-logo="ospinguinsdemadagascar.png" tvg-logo="http://3.bp.blogspot.com/-zF1fUzS8mb8/VmmkNSYO10I/AAAAAAAAAzU/VwyIqPYsenA/s1600/ospinguinsdemadagascar.png" group-title="Desenhos 24 horas", Os pinguins de Madagascar
-rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=pinguins swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/pinguins.php
-
-#EXTINF:-1 tvg-logo="papaleguas.png" tvg-logo="http://4.bp.blogspot.com/---J5o6E5y3A/VmmkOXePwqI/AAAAAAAAA0E/WfXa0uy-cnQ/s1600/papaleguas.png" group-title="Desenhos 24 horas", Papa-leguas
-rtmp://212.129.30.215/papaleguas/ playpath=papaleguas swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://livestreamcast.org/embed.php?c=papaleguas&vw=468&vh=360
-
-#EXTINF:-1 tvg-logo="peppapig.png" tvg-logo="http://4.bp.blogspot.com/-yiGpFHy3y1A/VmmkPZtJzSI/AAAAAAAAA0s/phT6U4V70H8/s1600/peppapig.png" group-title="Desenhos 24 horas", Peppa Pig
-rtmp://195.154.222.28/peppapig/peppapig playpath=peppapig swfUrl=http://www.tvonlinegratis.tv/player.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/peppapig.php
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-imPqv1J_8nA/VmmkV9qCrZI/AAAAAAAAA4w/u3pLZ4h9Ep0/s1600/picapau.png" tvg-logo="http://3.bp.blogspot.com/-imPqv1J_8nA/VmmkV9qCrZI/AAAAAAAAA4w/u3pLZ4h9Ep0/s1600/picapau.png" group-title="Desenhos 24 horas", Pica Pau
-rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/picapau.php
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-imPqv1J_8nA/VmmkV9qCrZI/AAAAAAAAA4w/u3pLZ4h9Ep0/s1600/picapau.png" tvg-logo="http://3.bp.blogspot.com/-imPqv1J_8nA/VmmkV9qCrZI/AAAAAAAAA4w/u3pLZ4h9Ep0/s1600/picapau.png" group-title="Desenhos 24 horas", Pica Pau
-http://62.210.82.241:8081/picapau/picapau/playlist.m3u8?wmsAuthSign=%AUTH%
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-imPqv1J_8nA/VmmkV9qCrZI/AAAAAAAAA4w/u3pLZ4h9Ep0/s1600/picapau.png" tvg-logo="http://3.bp.blogspot.com/-imPqv1J_8nA/VmmkV9qCrZI/AAAAAAAAA4w/u3pLZ4h9Ep0/s1600/picapau.png" group-title="Desenhos 24 horas", Pica Pau
-http://62.210.83.180:8081/picapau/picapau/playlist.m3u8?wmsAuthSign=%AUTH%
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VPKcLeU.png" group-title="Desenhos 24 horas", Pernalonga OFFF
-http://62.210.88.208:8081/turmadopernalonga/turmadopernalonga/playlist.m3u8?wmsAuthSign=%AUTH%
-
-#EXTINF:-1 tvg-logo="pokemon.png" tvg-logo="http://3.bp.blogspot.com/-hFqC1LGjLO0/VmmkWcPeD-I/AAAAAAAAA5U/7QzhM32Z5Ik/s1600/pokemon.png" group-title="Desenhos 24 horas", Pokemon
-rtmp://85.12.5.8/aovivo playpath=pokemonhd swfUrl=http://www.tvonlinegratis.tv/protegido.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/pokemon.php
-
-tvg-logo="http://1.bp.blogspot.com/-tuR-RappfZ8/VmmjK5BYUnI/AAAAAAAAAJw/ceYNekYLXB8/s1600/abadesenho24h.png" group-title="Desenhos 24 horas", Simpsons
-http://185.63.255.23:1935/live/simpsons/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="scoobydoo.png" tvg-logo="http://4.bp.blogspot.com/-rKRUOPHlf0s/Vmmkl8B18xI/AAAAAAAABBk/bXVvPt-_BRQ/s1600/scoobdoo.png" group-title="Desenhos 24 horas", Scobby doo
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/scooby.php
-
-#EXTINF:-1 tvg-logo="sout.png" tvg-logo="http://1.bp.blogspot.com/-XYaZSgt9iS8/VmmkuJhXcPI/AAAAAAAABFM/duXmuMp8tjc/s1600/southpark.png" group-title="Desenhos 24 horas", South Park
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/southpark.php
-
-#EXTINF:-1 tvg-logo="tomejerry.png" tvg-logo="http://1.bp.blogspot.com/-XkOw8tn2bQ8/Vmmk6QDbQzI/AAAAAAAABMU/_3FIkfLczgU/s1600/tomejerry.png" group-title="Desenhos 24 horas", Tom e Jerry
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=TOM swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/tomejerry.php
-
-#EXTINF:-1 tvg-logo="thundercats.png" tvg-logo="http://2.bp.blogspot.com/-aewIts82-do/Vmmk4PxHJVI/AAAAAAAABLE/woVeBLjCjAI/s1600/thundercats.png" group-title="Desenhos 24 horas", Thunder Cats(Nova GeraÃ§Ã£o)
-rtmp://195.154.222.28/thundernovo/thundernovo playpath=thundernovo swfUrl=http://www.tvonlinegratis.tv/player.swf?Grupo_UP_e_DOWN pageUrl=http://www.tvonlinegratis.tv/parcerias/novos-thundercats.php
-
-#EXTINF:-1 tvg-logo="thundercats.png" tvg-logo="http://2.bp.blogspot.com/-aewIts82-do/Vmmk4PxHJVI/AAAAAAAABLE/woVeBLjCjAI/s1600/thundercats.png" group-title="Desenhos 24 horas", Thunder Cats(Classico)
-rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=thunder swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/thunder.php
-
-#EXTINF:-1 tvg-logo="ursinhos.png" tvg-logo="http://2.bp.blogspot.com/-n2d_-JadvJ8/VmmlFJs5P_I/AAAAAAAABSE/1_Mrhp6429o/s1600/ursinhos.png" group-title="Desenhos 24 horas", Ursinhos Carinhosos OFFF
-rtmp://195.154.176.66:8082/ursinhoscarinhosos/ursinhoscarinhosos/ playpath=ursinhoscarinhosos swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://livestreamcast.org/embed.php?c=ursinhoscarinhosos&vw=468&vh=360
-
-#EXTINF:-1 tvg-logo="yuginew.png" tvg-logo="http://4.bp.blogspot.com/-5Y7vWqfK-Y8/VmmlJAvwljI/AAAAAAAABUc/2J4uMWzCpgU/s1600/yugi.png" group-title="Desenhos 24 horas", Yu Gi Oh 
-rtmp://208.53.164.194/ctv?wmsAuthSign=%AUTH% playpath=yugioh swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://aovivobrasil.com/tvamigos/yugioh.html
-
-#EXTINF:-1 tvg-logo="xmen.png" tvg-logo="http://3.bp.blogspot.com/-zX_lsaz-LYw/VmmlI5eFljI/AAAAAAAABUQ/prhghm3cReg/s1600/xmen.png" group-title="Desenhos 24 horas", XMEN
-rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=xmen swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/xmen.php
-
-#EXTINF:-1 tvg-logo="abadesenho24h.png" tvg-logo="http://1.bp.blogspot.com/-tuR-RappfZ8/VmmjK5BYUnI/AAAAAAAAAJw/ceYNekYLXB8/s1600/abadesenho24h.png" group-title="Desenhos 24 horas", 
-http://bit.ly
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Telecine Touch HD
+http://br1.e-tv.xyz:8081/live/like39284/TYshQzyA4T/3890.m3u8
