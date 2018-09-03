@@ -24,26 +24,62 @@ http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8?LISTANG2000IPTV
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX ACTION
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sky Cinema Action
-http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/700/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN BRASIL
+http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sport1+ HD
-http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/701/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN Brasil
+http://apk2.futeboltv.com:8081/live/19/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sky Cinema +1 HD
-http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/705/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SportTV
+http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sky Cinema +24 HD
-http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/706/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SporTV
+http://apk2.futeboltv.com:8081/live/20/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sky Cinema +24
-http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/707/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN+
+http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Disney Jr. HD
-http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/709/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN
+http://apk2.futeboltv.com:8081/live/3/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sky Cinema Family
-http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/711/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Fox Sports
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GLOBO
-http://stmv2.gadi.com.br/tvc/tvc/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Fox Sports
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Premiere
+http://apk2.futeboltvgratis.com:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Globo
+http://apk2.futeboltvgratis.com:8081/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN+
+http://apk2.futeboltvgratis.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sportv premiere
+http://apk2.futeboltvgratis.com:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN BRAZIL
+http://apk2.futeboltvgratis.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Fox
+http://apk2.futeboltvgratis.com:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sportv 2
+http://apk2.futeboltvgratis.com:8081/live/5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sportv 3
+http://apk2.futeboltvgratis.com:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Esporte Interativo
+http://apk2.futeboltvgratis.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN BRASIL
+http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN
+http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX SPORTS
+http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
