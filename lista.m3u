@@ -129,3 +129,35 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV FECHADA",Cine Filmes 4
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbofamily.png", HBO FAMILY HD
+http://starbr.digitalgroup.me:15000/live/Adri040717/040720/1016.m3u8
+
+#EXTINF:-1,FOX
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
+
+#EXTINF:-1,TTELECINE ACTION
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_f1tv_b1096000.m3u8
+
+#EXTINF:-1,TELECINE TOUCH
+http://starbr.digitalgroup.me:15000/live/Adri040717/040720/926.m3u8
+
+#EXTINF:-1,TV NA ILHA
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+
+#EXTINF:-1,HISTORY 
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/discoveryturbob.png",DISCOVERY TURBO
+http://starbr.digitalgroup.me:15000/live/Adri040717/040720/2411.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/animalplanet.png",ANIMAL PLANET
+http://starbr.digitalgroup.me:15000/live/Adri040717/040720/1117.m3u8
+
+#EXTINF:-1,MULITSHOW
+http://95.141.32.213:8081/look/eimaxs/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1,MIX TV
+http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8
+
+#EXTINF:-1,LOGAN (2017)
+http://ca.netcine.tv/ntcdnbucket/filmes2017/L0G4NDUB2017-BAIXO.mp4
