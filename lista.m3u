@@ -85,31 +85,67 @@ http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
 http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",CARTOON NETWORK
-http://dpmia01.gcdn.co:80/027/myStream/live.m3u8
+http://switch01.servep2p.com:80/027/myStream/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GOSPEL CARTOON
-http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS FECHADOS",CARTOON NETWORK
+http://23.237.22.153:8080/live/App/daagrd2HwP/15.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GOSPEL CARTOON
-http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?ANTONYGTV
+#EXTINF:-1,RETRO CARTOON
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel Cartoon
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/discoveryturbob.png",DISCOVERY TURBO
+http://starbr.digitalgroup.me:15000/live/Adri040717/040720/2411.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel cartoon
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/R5Fo3lb.png" group-title="CANAIS SMART TV", GLOBO NEWS
+http://149.56.29.127:8000/live/darius/darius/283.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GOSPEL CARTOON
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105?CANAISGLAU
+#EXTINF:-1 tvg-logo="http://i.imgur.com/R5Fo3lb.png" group-title="CANAIS SMART TV", RECORD NEWS
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel Cartoon
-http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b69I2Gx.png" group-title="Documentarios", A&E
+http://str04.ddns.net/099/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel Cartoon
-http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8?ISAQUE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b69I2Gx.png" group-title="Documentarios", ANIMAL PLANET
+http://str04.ddns.net/100/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel Cartoon
-http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel Cartoon
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105?CANALANDRONALTAS
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Qm3_NwwwNGM/Vmmjn--fX0I/AAAAAAAAAcM/8cWQCh0pvuU/s1600/discovery.png" group-title="Documentarios", Discovery Channel
+http://str03.ddns.net/066/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Qm3_NwwwNGM/Vmmjn--fX0I/AAAAAAAAAcM/8cWQCh0pvuU/s1600/discovery.png" group-title="Documentarios", Discovery SCIENSE
+http://revmviptvbr.ddns.net:25461/live/josi/gtrdes234556/107.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b69I2Gx.png" group-title="Documentarios", Discovery CIVILIZATION
+http://revmviptvbr.ddns.net:25461/live/josi/gtrdes234556/110.m3u8
+
+rtmp://31.204.151.253/live?wmsAuthSign=%AUTH% playpath=master04 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/mestre.php token=carioca
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b69I2Gx.png" group-title="Documentarios", Discovery ID
+http://str02.ddns.net/056/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b69I2Gx.png" group-title="Documentarios", Discovery H&H
+http://str03.ddns.net/078/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b69I2Gx.png" group-title="Documentarios", Discovery TURBO
+http://revmviptvbr.ddns.net:25461/live/josi/gtrdes234556/106.m3u8
+
+#EXTINF:-1 tvg-logo="fishtv.png" tvg-logo="http://4.bp.blogspot.com/-1Y6OsQfbn4w/VmmjwxMargI/AAAAAAAAAiA/PgA0TUGBDXE/s1600/fishtv.png" group-title="Documentarios", HISTORY CHANNEL
+http://str03.ddns.net/069/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b69I2Gx.png" group-title="Documentarios", H2
+http://str02.ddns.net/054/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b69I2Gx.png" group-title="Documentarios", Nat Geo
+http://str03.ddns.net/082/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b69I2Gx.png" group-title="Documentarios", Nat Geographic
+http://str04.ddns.net/110/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b69I2Gx.png" group-title="Documentarios", Nat Geo
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1972.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b69I2Gx.png" group-title="Documentarios", Nat Geo 
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2067.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b69I2Gx.png" group-title="Documentarios", Fox Life
+http://str03.ddns.net/083/myStream/playlist.m3u8
 
