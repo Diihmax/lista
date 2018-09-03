@@ -129,3 +129,50 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Telecine Touch HD
 http://br1.e-tv.xyz:8081/live/like39284/TYshQzyA4T/3890.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Cine",TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV FECHADA",Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV FECHADA",Cine Filmes 4
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV FECHADA",TNT Series
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Filmes",Canais Filmes 24HRS
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV FECHADA",Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",TC PIPOCA HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/930.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",TC FUN HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/932.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",TC PREMIUM HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/928.m3u
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Infantil",NICK HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/5093.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",TNT SERIES HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/2474.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Infantil",CARTOON NETWORK HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/2479.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Series",CINEMAX HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/5080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Infantil",DISCOVERY KIDS
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Infantil",DISNEY JR
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1068.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Series",FOX
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1329.m3u8
