@@ -126,18 +126,3 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?PEDROJUNIORTU
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",CINE SKY 2
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-logo="http://i.imgur.com/N1yI2xN.png" group-title="Infantil",Baby TV
-
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV RÃ¡-Tim-Bum
-
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
-
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
-
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon
-
-#EXTINF:-1 tvg-id="NickJr.br" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
-
-#EXTINF:-1 tvg-id="Gloob.br" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
-
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
