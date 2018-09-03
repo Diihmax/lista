@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SBT SP HD
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",SBT GO HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Globo
+http://apk2.futeboltvgratis.com:8081/live/17/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Mexiquense Toluca
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
 
@@ -21,6 +27,12 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",REDE TV
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8?LISTANG2000IPTV
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Notícias",Record News
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Notícias",Record News HD
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX ACTION
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/index.m3u8
 
@@ -30,17 +42,17 @@ http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN Brasil
 http://apk2.futeboltv.com:8081/live/19/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SportTV
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SporTV
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN+
 http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN
 http://apk2.futeboltv.com:8081/live/3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SportTV
+http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SporTV
+http://apk2.futeboltv.com:8081/live/20/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Fox Sports
 http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
@@ -51,17 +63,20 @@ http://apk2.futeboltv.com:8081/live/4/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SportTV 2
 http://apk2.futeboltvgratis.com:8081/live/15/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Globo
-http://apk2.futeboltvgratis.com:8081/live/17/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN+
 http://apk2.futeboltvgratis.com:8081/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sportv
-http://apk2.futeboltvgratis.com:8081/live/20/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN BRAZIL
 http://apk2.futeboltvgratis.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN BRASIL
+http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN
+http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sportv
+http://apk2.futeboltvgratis.com:8081/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Fox Sports
 http://apk2.futeboltvgratis.com:8081/live/4/playlist.m3u8
@@ -75,17 +90,8 @@ http://apk2.futeboltvgratis.com:8081/live/7/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Esporte Interativo
 http://apk2.futeboltvgratis.com:8081/live/8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN BRASIL
-http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN
-http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX SPORTS
 http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Desenho",Cartoon Network
-http://23.237.22.153:8080/live/App/daagrd2HwP/15.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Cine Sky
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?LISTASDAGLAU
@@ -99,92 +105,23 @@ http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8?LISTASDAGLAU
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Cine Filmes
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Desenho",Cartoon Gospel
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Documentários",Furg TV
 http://stream.furg.br:80/hls/furgtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Documentários",Geraes TV
 http://stmv1.euroti.com.br:1935/tv465/tv465/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Gospel",Gospel Movies Television
-http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",Guaru Fama TV
 http://tv.tvalphanet.com.br:1935/guarufamatv/guarufamatv/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esporte",Esporte Interativo
-https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esporte",SporTV 2
-http://apk.goo.bo:8081/live/15/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esporte",All Sports BR
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Notícias",Record News
-http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Notícias",Record News HD
-http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Variedade e Músicas",Yeeah!
 http://stmv2.srvstm.com:1935/yeeahteen/yeeahteen/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Variedade e Músicas",Top TV
-http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Variedade e Músicas",Top TV HD
-http://stmv3.euroti.com.br:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Variedade e Músicas",Hit TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A&E HD
-http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/36929.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",AMC HD
-http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/36928.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Cinemax HD
-http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/37120.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",FOX HD
-http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/37101.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",FOX Premium 2 HD
-http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/36973.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",HBO 2 HD
-http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/37086.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",HBO Family HD
-http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/37085.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",HBO Plus HD
-http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/37084.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",HBO Signature HD
-http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/36962.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Telecine Pipoca HD
-http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/36937.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",History HD
-http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1695588725.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",CINE SKY 2
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Warner Channel HD
-http://tv.factoryiptv.com:80/live/eE0WMqOneH/qNihVSCDvI/36930.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Desenho",Disney Channel SD
-http://br1.e-tv.xyz:8081/live/like39284/TYshQzyA4T/4144.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Telecine Touch HD
-http://br1.e-tv.xyz:8081/live/like39284/TYshQzyA4T/3890.m3u8
