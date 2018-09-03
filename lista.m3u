@@ -125,3 +125,54 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?PEDROJUNIORTU
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",CINE SKY 2
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+
+#EXTINF:-1,BR: A&E
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/265.ts
+#EXTINF:-1,BR: A&E HD
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/162.ts
+#EXTINF:-1,BR: AXN
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/264.ts
+#EXTINF:-1,BR: AXN HD
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/160.ts
+#EXTINF:-1,BR: Amazon Sat
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/9724.ts
+#EXTINF:-1,BR: AMC
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/5532.ts
+#EXTINF:-1,BR: AMC HD
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/5533.ts
+#EXTINF:-1,BR: Animal Planet
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/266.ts
+#EXTINF:-1,BR: Animal Planet HD
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/161.ts
+#EXTINF:-1,BR: Baby TV
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/159.ts
+#EXTINF:-1,BR: Band
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/261.ts
+#EXTINF:-1,BR: Band HD
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/4070.ts
+#EXTINF:-1,BR: Band News
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/262.ts
+#EXTINF:-1,BR: Band Sports
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/263.ts
+#EXTINF:-1,BR: BIS
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/4066.ts
+#EXTINF:-1,BR: BIS HD
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/158.ts
+#EXTINF:-1,BR: Boomerang
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/260.ts
+#EXTINF:-1,BR: Boomerang HD
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/9730.ts
+#EXTINF:-1,BR: CBlol
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/12399.ts
+#EXTINF:-1,BR: Canal Brasil
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/4064.ts
+#EXTINF:-1,BR: Canal Sony
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/259.ts
+#EXTINF:-1,BR: Canal Sony HD
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/157.ts
+#EXTINF:-1,BR: Cartoon Network
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/258.ts
+#EXTINF:-1,BR: Cartoon Network HD
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/12393.ts
+#EXTINF:-1,BR: Cartoon Network FHD
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/238.ts
