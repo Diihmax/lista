@@ -126,3 +126,6 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?PEDROJUNIORTU
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",CINE SKY 2
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Telecine Touch HD
+http://br1.e-tv.xyz:8081/live/like39284/TYshQzyA4T/3890.m3u8
+
