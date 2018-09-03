@@ -48,7 +48,7 @@ http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Fox Sports
 http://apk2.futeboltv.com:8081/live/4/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Premiere
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SportTV 2
 http://apk2.futeboltvgratis.com:8081/live/15/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Globo
@@ -57,16 +57,16 @@ http://apk2.futeboltvgratis.com:8081/live/17/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN+
 http://apk2.futeboltvgratis.com:8081/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sportv premiere
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sportv
 http://apk2.futeboltvgratis.com:8081/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ESPN BRAZIL
 http://apk2.futeboltvgratis.com:8081/live/3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Fox
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Fox Sports
 http://apk2.futeboltvgratis.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sportv 2
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Fox Sportv 2
 http://apk2.futeboltvgratis.com:8081/live/5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sportv 3
@@ -83,3 +83,33 @@ http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX SPORTS
 http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",CARTOON NETWORK
+http://dpmia01.gcdn.co:80/027/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GOSPEL CARTOON
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GOSPEL CARTOON
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8?ISAQUE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105?CANALANDRONALTAS
+
