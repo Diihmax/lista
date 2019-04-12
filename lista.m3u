@@ -1,22 +1,34 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SBT SP HD
-https://tvonlinegratis.ru/play/play.php?server=evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",SBT GO HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+http://www.cdnbr.biz/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Globo
-http://31.204.128.117:8081/live/sptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]GLOBO[/B] []
-http://31.204.128.117:8081/live/globo/playlist.m3u8
+http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", [B]RECORD[/B] []
 http://31.204.128.117:8081/live/record/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Band
 http://31.204.128.117:8081/live/band/playlist.m3u8
+
+#EXTINF:0 tvg-id="Bandsportshd.br" group-title="Channels",Band Sports
+http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SporTV
+http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",SporTV 2
+http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Channels",Fox Sports
+http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Channels",Fox Sports 2
+http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8
+#EXTINF:0 tvg-id="Eimaxx.br" group-title="Channels",EI Maxx
+http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8&
+#EXTINF:0 tvg-id="Espn.br" group-title="Channels",ESPN
+http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Mexiquense Toluca
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
@@ -39,8 +51,8 @@ http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8?LISTANG2000IPTV
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Notícias",Record News
 http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Notícias",Record News HD
-http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Channels",Record News
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w1136501536.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FOX ACTION
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/index.m3u8
