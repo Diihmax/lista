@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SBT SP HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
+https://tvonlinegratis.ru/play/play.php?server=evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Globo
 http://apk2.futeboltvgratis.com:8081/live/17/playlist.m3u8
