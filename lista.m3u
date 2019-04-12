@@ -7,7 +7,16 @@ https://tvonlinegratis.ru/play/play.php?server=evpp.mm.uol.com.br/ne10/ne10.smil
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Globo
-http://apk2.futeboltvgratis.com:8081/live/17/playlist.m3u8
+http://31.204.128.117:8081/live/sptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]GLOBO[/B] []
+http://31.204.128.117:8081/live/globo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]RECORD[/B] []
+http://31.204.128.117:8081/live/record/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Band
+http://31.204.128.117:8081/live/band/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Mexiquense Toluca
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
